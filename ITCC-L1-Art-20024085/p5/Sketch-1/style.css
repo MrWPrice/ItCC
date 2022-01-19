@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    display: flex; /* using flexbox */
+  
+    /* centres sketch horizontally. */
+    justify-content: center;
+  
+    
+  }
